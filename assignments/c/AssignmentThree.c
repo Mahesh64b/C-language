@@ -79,6 +79,14 @@ int main(){
 
 // Question 9 ------->
 
+#include <stdio.h>
+int main(){
+    int a=6,b=8;
+    a = b^a;
+    b = a^b;
+    a = b^a;
+    printf("%d %d",a,b);
 
+}
 
 // Question 10--------->
