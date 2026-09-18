@@ -1,34 +1,19 @@
 /*
  * ============================================================
  *  DSA / C Programming
- *  Assignment: 01
- *  Topic: Conditional Statements
+ *
  *  Language: C
  *
  *  Created: 17 September 2026
- *  Updated: 17 September 2026
- *
- *  Questions: 10
- *  Status: Completed
- *
- *  Description:
- *  This assignment contains 10 programs based on
- *  conditional statements.
- *
- *  Concepts Covered:
- *  - if / else
- *  - nested conditions
- *  - switch
- *  - logical operators
- *  - relational operators
- *
+ *  Updated: 18 September 2026
+
  *  Author: ZETTO
  * ============================================================
- */
+ */ ✅
 
-# Assignment 00
+# Assignments
 
-| 01 | <short description> | ⬜ |
+| 01 | done 10/10 | ✅ |
 | 02 | <short description> | ⬜ |
 | 03 | <short description> | ⬜ |
 | 04 | <short description> | ⬜ |
@@ -39,250 +24,25 @@
 | 09 | <short description> | ⬜ |
 | 10 | <short description> | ⬜ |
 
-# Assignment 01
+| 11 | <short description> | ⬜ |
+| 12 | <short description> | ⬜ |
+| 13 | <short description> | ⬜ |
+| 14 | <short description> | ⬜ |
+| 15 | <short description> | ⬜ |
+| 16 | <short description> | ⬜ |
+| 17 | <short description> | ⬜ |
+| 18 | <short description> | ⬜ |
+| 19 | <short description> | ⬜ |
+| 20 | <short description> | ⬜ |
 
-| 01 | <short description> | ⬜ |
-| 02 | <short description> | ⬜ |
-| 03 | <short description> | ⬜ |
-| 04 | <short description> | ⬜ |
-| 05 | <short description> | ⬜ |
-| 06 | <short description> | ⬜ |
-| 07 | <short description> | ⬜ |
-| 08 | <short description> | ⬜ |
-| 09 | <short description> | ⬜ |
-| 10 | <short description> | ⬜ |
-
-# Assignment 02
-
-| 01 | <short description> | ⬜ |
-| 02 | <short description> | ⬜ |
-| 03 | <short description> | ⬜ |
-| 04 | <short description> | ⬜ |
-| 05 | <short description> | ⬜ |
-| 06 | <short description> | ⬜ |
-| 07 | <short description> | ⬜ |
-| 08 | <short description> | ⬜ |
-| 09 | <short description> | ⬜ |
-| 10 | <short description> | ⬜ |
-
-# Assignment 03
-
-| 01 | <short description> | ⬜ |
-| 02 | <short description> | ⬜ |
-| 03 | <short description> | ⬜ |
-| 04 | <short description> | ⬜ |
-| 05 | <short description> | ⬜ |
-| 06 | <short description> | ⬜ |
-| 07 | <short description> | ⬜ |
-| 08 | <short description> | ⬜ |
-| 09 | <short description> | ⬜ |
-| 10 | <short description> | ⬜ |
-
-# Assignment 04
-
-| 01 | <short description> | ⬜ |
-| 02 | <short description> | ⬜ |
-| 03 | <short description> | ⬜ |
-| 04 | <short description> | ⬜ |
-| 05 | <short description> | ⬜ |
-| 06 | <short description> | ⬜ |
-| 07 | <short description> | ⬜ |
-| 08 | <short description> | ⬜ |
-| 09 | <short description> | ⬜ |
-| 10 | <short description> | ⬜ |
-
-# Assignment 05
-
-| 01 | <short description> | ⬜ |
-| 02 | <short description> | ⬜ |
-| 03 | <short description> | ⬜ |
-| 04 | <short description> | ⬜ |
-| 05 | <short description> | ⬜ |
-| 06 | <short description> | ⬜ |
-| 07 | <short description> | ⬜ |
-| 08 | <short description> | ⬜ |
-| 09 | <short description> | ⬜ |
-| 10 | <short description> | ⬜ |
-
-# Assignment 06
-
-| 01 | <short description> | ⬜ |
-| 02 | <short description> | ⬜ |
-| 03 | <short description> | ⬜ |
-| 04 | <short description> | ⬜ |
-| 05 | <short description> | ⬜ |
-| 06 | <short description> | ⬜ |
-| 07 | <short description> | ⬜ |
-| 08 | <short description> | ⬜ |
-| 09 | <short description> | ⬜ |
-| 10 | <short description> | ⬜ |
-
-# Assignment 07
-
-| 01 | <short description> | ⬜ |
-| 02 | <short description> | ⬜ |
-| 03 | <short description> | ⬜ |
-| 04 | <short description> | ⬜ |
-| 05 | <short description> | ⬜ |
-| 06 | <short description> | ⬜ |
-| 07 | <short description> | ⬜ |
-| 08 | <short description> | ⬜ |
-| 09 | <short description> | ⬜ |
-| 10 | <short description> | ⬜ |
-
-# Assignment 08
-
-| 01 | <short description> | ⬜ |
-| 02 | <short description> | ⬜ |
-| 03 | <short description> | ⬜ |
-| 04 | <short description> | ⬜ |
-| 05 | <short description> | ⬜ |
-| 06 | <short description> | ⬜ |
-| 07 | <short description> | ⬜ |
-| 08 | <short description> | ⬜ |
-| 09 | <short description> | ⬜ |
-| 10 | <short description> | ⬜ |
-
-# Assignment 09
-
-| 01 | <short description> | ⬜ |
-| 02 | <short description> | ⬜ |
-| 03 | <short description> | ⬜ |
-| 04 | <short description> | ⬜ |
-| 05 | <short description> | ⬜ |
-| 06 | <short description> | ⬜ |
-| 07 | <short description> | ⬜ |
-| 08 | <short description> | ⬜ |
-| 09 | <short description> | ⬜ |
-| 10 | <short description> | ⬜ |
-
-# Assignment 10
-
-| 01 | <short description> | ⬜ |
-| 02 | <short description> | ⬜ |
-| 03 | <short description> | ⬜ |
-| 04 | <short description> | ⬜ |
-| 05 | <short description> | ⬜ |
-| 06 | <short description> | ⬜ |
-| 07 | <short description> | ⬜ |
-| 08 | <short description> | ⬜ |
-| 09 | <short description> | ⬜ |
-| 10 | <short description> | ⬜ |
-
-# Assignment 11
-
-| 01 | <short description> | ⬜ |
-| 02 | <short description> | ⬜ |
-| 03 | <short description> | ⬜ |
-| 04 | <short description> | ⬜ |
-| 05 | <short description> | ⬜ |
-| 06 | <short description> | ⬜ |
-| 07 | <short description> | ⬜ |
-| 08 | <short description> | ⬜ |
-| 09 | <short description> | ⬜ |
-| 10 | <short description> | ⬜ |
-
-# Assignment 12
-
-| 01 | <short description> | ⬜ |
-| 02 | <short description> | ⬜ |
-| 03 | <short description> | ⬜ |
-| 04 | <short description> | ⬜ |
-| 05 | <short description> | ⬜ |
-| 06 | <short description> | ⬜ |
-| 07 | <short description> | ⬜ |
-| 08 | <short description> | ⬜ |
-| 09 | <short description> | ⬜ |
-| 10 | <short description> | ⬜ |
-
-# Assignment 13
-
-| 01 | <short description> | ⬜ |
-| 02 | <short description> | ⬜ |
-| 03 | <short description> | ⬜ |
-| 04 | <short description> | ⬜ |
-| 05 | <short description> | ⬜ |
-| 06 | <short description> | ⬜ |
-| 07 | <short description> | ⬜ |
-| 08 | <short description> | ⬜ |
-| 09 | <short description> | ⬜ |
-| 10 | <short description> | ⬜ |
-
-# Assignment 14
-
-| 01 | <short description> | ⬜ |
-| 02 | <short description> | ⬜ |
-| 03 | <short description> | ⬜ |
-| 04 | <short description> | ⬜ |
-| 05 | <short description> | ⬜ |
-| 06 | <short description> | ⬜ |
-| 07 | <short description> | ⬜ |
-| 08 | <short description> | ⬜ |
-| 09 | <short description> | ⬜ |
-| 10 | <short description> | ⬜ |
-
-# Assignment 15
-
-| 01 | <short description> | ⬜ |
-| 02 | <short description> | ⬜ |
-| 03 | <short description> | ⬜ |
-| 04 | <short description> | ⬜ |
-| 05 | <short description> | ⬜ |
-| 06 | <short description> | ⬜ |
-| 07 | <short description> | ⬜ |
-| 08 | <short description> | ⬜ |
-| 09 | <short description> | ⬜ |
-| 10 | <short description> | ⬜ |
-
-# Assignment 16
-
-| 01 | <short description> | ⬜ |
-| 02 | <short description> | ⬜ |
-| 03 | <short description> | ⬜ |
-| 04 | <short description> | ⬜ |
-| 05 | <short description> | ⬜ |
-| 06 | <short description> | ⬜ |
-| 07 | <short description> | ⬜ |
-| 08 | <short description> | ⬜ |
-| 09 | <short description> | ⬜ |
-| 10 | <short description> | ⬜ |
-
-# Assignment 17
-
-| 01 | <short description> | ⬜ |
-| 02 | <short description> | ⬜ |
-| 03 | <short description> | ⬜ |
-| 04 | <short description> | ⬜ |
-| 05 | <short description> | ⬜ |
-| 06 | <short description> | ⬜ |
-| 07 | <short description> | ⬜ |
-| 08 | <short description> | ⬜ |
-| 09 | <short description> | ⬜ |
-| 10 | <short description> | ⬜ |
-
-# Assignment 18
-
-| 01 | <short description> | ⬜ |
-| 02 | <short description> | ⬜ |
-| 03 | <short description> | ⬜ |
-| 04 | <short description> | ⬜ |
-| 05 | <short description> | ⬜ |
-| 06 | <short description> | ⬜ |
-| 07 | <short description> | ⬜ |
-| 08 | <short description> | ⬜ |
-| 09 | <short description> | ⬜ |
-| 10 | <short description> | ⬜ |
-
-# Assignment 19
-
-| 01 | <short description> | ⬜ |
-| 02 | <short description> | ⬜ |
-| 03 | <short description> | ⬜ |
-| 04 | <short description> | ⬜ |
-| 05 | <short description> | ⬜ |
-| 06 | <short description> | ⬜ |
-| 07 | <short description> | ⬜ |
-| 08 | <short description> | ⬜ |
-| 09 | <short description> | ⬜ |
-| 10 | <short description> | ⬜ |
+| 11 | <short description> | ⬜ |
+| 12 | <short description> | ⬜ |
+| 13 | <short description> | ⬜ |
+| 14 | <short description> | ⬜ |
+| 15 | <short description> | ⬜ |
+| 16 | <short description> | ⬜ |
+| 17 | <short description> | ⬜ |
+| 18 | <short description> | ⬜ |
+| 19 | <short description> | ⬜ |
+| 20 | <short description> | ⬜ |
 ```

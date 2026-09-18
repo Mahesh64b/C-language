@@ -1,3 +1,4 @@
+// Assignment: Input and output in C Language
 
 #include <stdio.h>
 #include <stdlib.h>
@@ -9,12 +10,12 @@
 
 /*
  * Problem:
- * <Write the question here>
+ * 1. Write a program to print Hello Students on the screen.
  */
 
 void question01(void)
 {
-    // Your solution here
+    printf("Hello Students");
 }
 
 
@@ -24,12 +25,12 @@ void question01(void)
 
 /*
  * Problem:
- * <Write the question here>
+ * 2. Wiite a program to print Hello in the first line and Students in the second line.
  */
 
 void question02(void)
 {
-    // Your solution here
+    printf("Hello\nStudents");
 }
 
 
@@ -39,20 +40,13 @@ void question02(void)
 
 /*
  * Problem:
- * <Write the question here>
+ *  3. Write a program to print “MySirG” on the screen. (Remember to print in double. quotes) 
  */
 
-/*
- * Problem:
- * <Write the question here>
- *
- * Approach:
- * <Brief explanation of your approach>
- */
 
 void question03(void)
 {
-    // Your solution here
+    printf("\"MySirG\"");
 }
 
 
@@ -62,12 +56,12 @@ void question03(void)
 
 /*
  * Problem:
- * <Write the question here>
+ * 4. Write a program 10 print \n on the screen.
  */
 
 void question04(void)
 {
-    // Your solution here
+    printf("\\n");
 }
 
 
@@ -77,12 +71,12 @@ void question04(void)
 
 /*
  * Problem:
- * <Write the question here>
+ * 5. Wite a program to print \r on the screen.
  */
 
 void question05(void)
 {
-    // Your solution here
+    printf("\\r");
 }
 
 
@@ -92,12 +86,12 @@ void question05(void)
 
 /*
  * Problem:
- * <Write the question here>
+ *  6. Wite a program to print “Teacher's Day” on the screen. (Remember to print double and single quotes) 
  */
 
 void question06(void)
 {
-    // Your solution here
+    printf("\"Teacher\'s Day\"");
 }
 
 
@@ -107,12 +101,15 @@ void question06(void)
 
 /*
  * Problem:
- * <Write the question here>
+ *  7. Write a program to calculate sum of two integers. Numbers are taken from user through keyboard, 
  */
 
 void question07(void)
-{
-    // Your solution here
+{   
+    int a,b;
+    printf("Enter Two number : ");
+    scanf("%d %d", &a, &b);
+    printf("%d is sum of %d and %d", a + b, a, b);
 }
 
 
@@ -122,12 +119,15 @@ void question07(void)
 
 /*
  * Problem:
- * <Write the question here>
+ *  8. Wite a program calculate square of a given number. Number is entered by the user. 
  */
 
 void question08(void)
 {
-    // Your solution here
+    int a;
+    printf("Enter the number : ");
+    scanf("%d", &a);
+    printf("%d is square of %d", a*a, a);
 }
 
 
@@ -137,12 +137,16 @@ void question08(void)
 
 /*
  * Problem:
- * <Write the question here>
+ * 9. Write a program to calculate area of a rectangle. Input appropriate data from the user. 
  */
 
 void question09(void)
 {
-    // Your solution here
+    int l,w,a;
+    printf("Enter length and width of ractangle : ");
+    scanf("%d %d", &l, &w);
+    a = l * w;
+    printf("Area of ractangle is %d", a);
 }
 
 
@@ -152,12 +156,16 @@ void question09(void)
 
 /*
  * Problem:
- * <Write the question here>
+ *  10. WAP to find the area of the circle. Take radius of circle from user as input and print the result in below given format. 
  */
 
 void question10(void)
 {
-    // Your solution here
+    float r,a;
+    printf("Enter radius of circle : ");
+    scanf("%f", &r);
+    a = 3.14 * (r * r);
+    printf("%0.2f is Area of circle with radius of %0.2f", a, r);
 }
 
 
@@ -165,7 +173,7 @@ void question10(void)
 // MAIN
 // ============================================================
 
-int main(void)
+int main(void) 
 {
     int question;
 
