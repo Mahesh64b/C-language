@@ -1,4 +1,3 @@
-//Assignment-2: More on printf and scanf
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -9,16 +8,13 @@
 
 /*
  * Problem:
- *  1. Write a program to calculate average of three integers. Numbers are given by the user. 
+ * <Write the question here>
  */
 
 void question01(void)
 {
-    int a,b,c,avg;
-    printf("Enter the three numbers : ");
-    scanf("%d %d %d",&a,&b,&c);
-    avg = (a + b + c) / 3;
-    printf("\navrage is : %d",avg);
+    char c = 'A';
+    printf("%d",sizeof(c));
 }
 
 
@@ -28,17 +24,13 @@ void question01(void)
 
 /*
  * Problem:
- * 2. Wiite a program to calculate circumference of a circle.
+ * <Write the question here>
  */
 
 void question02(void)
 {
-    int r;
-    float c;
-    printf("Enter radius of circle : ");
-    scanf("%d",&r);
-    c = 2 * r * 3.14;
-    printf("%0.2f",c);
+    int c = 'A';
+    printf("%d",sizeof(c));
 }
 
 
@@ -48,24 +40,15 @@ void question02(void)
 
 /*
  * Problem:
- * 3. Wiite a program to calculate simple interest.
+ * <Write the question here>
  */
 
 
 void question03(void)
 {
-    float p,i,t,si;
-    printf("Enter Principal amount : ");
-    scanf("%f",&p);
-    printf("Enter Intrest rate : ");
-    scanf("%f",&i);
-    printf("Enter Time : ");
-    scanf("%f",&t);
-
-    si = ( p*t*i ) / 100;
-
-    printf("%0.2f is SI",si);
-
+    char a = 'A';
+    a++;
+    printf("%c",a);
 }
 
 
@@ -75,16 +58,13 @@ void question03(void)
 
 /*
  * Problem:
- * 4. Write a program to calculate volume of a cuboid.
+ * <Write the question here>
  */
 
 void question04(void)
 {
-    int l,w,h,v;
-    printf("Enter lenght width and hight of cuboid : ");
-    scanf("%d %d %d",&l,&w,&h);
-    v = l*h*w;
-    printf("%d is the volume of cuboid",v);
+    int x = 47328;
+    printf("%d",x % 10);
 }
 
 
@@ -94,17 +74,13 @@ void question04(void)
 
 /*
  * Problem:
- *  5. Wite a program to ask user about the cost price and selling price banana per dozen. Calculate the profit or loss eamed upon selling 25 bananas. 
+ * <Write the question here>
  */
 
 void question05(void)
 {
-    int cost,sell,profit12,profit25;
-    printf("enter cost and selling price of 12 bananas : ");
-    scanf("%d %d",&cost,&sell);
-    profit12 = sell - cost;
-    profit25 = (profit12 * 25) / 12;
-    printf("Profit of selling 25 bananas is %d",profit25);
+    int x = 47328;
+    printf("%d",x / 10);
 }
 
 
@@ -114,16 +90,19 @@ void question05(void)
 
 /*
  * Problem:
- * 6. Wiite a program to input a character from the user and print its ASCII code.
+ * <Write the question here>
  */
 
 void question06(void)
 {
-    char character;
-    printf("Enter the char : ");
-    scanf("%c",&character);
-    printf("%d",character);
+    int a=20,b=5,c=0;
+    c = a;
+    a = b;
+    b = c;
+    printf("a = %d and b = %d",a,b);
+
 }
+
 
 // ============================================================
 // QUESTION 07
@@ -136,10 +115,11 @@ void question06(void)
 
 void question07(void)
 {
-    int x;
-    printf("Enter the number : ");
-    scanf("%d",&x);
-    printf("%c",x);
+    int a=20,b=5;
+    b = a+b;
+    a = b-a;
+    b = b-a;
+    printf("a = %d and b = %d",a,b);
 }
 
 
@@ -154,10 +134,11 @@ void question07(void)
 
 void question08(void)
 {
-    char a,b,c;
-    printf("Enter three characters : ");
-    scanf("%c %c %c",&a,&b,&c);
-    printf("%c = %d\n%c = %d\n%c = %d\n",a,a,b,b,c,c);
+    int a=20,b=5;
+    b = a*b;
+    a = b/a;
+    b = b/a;
+    printf("a = %d and b = %d",a,b);
 }
 
 
@@ -172,10 +153,7 @@ void question08(void)
 
 void question09(void)
 {
-    int d,m,y;
-    printf("Enter date month year in (xx/yy/zzzz) : ");
-    scanf("%d/%d/%d",&d,&m,&y);
-    printf("Day - %d ,Month - %d ,Year - %d",d,m,y);
+    // Your solution here
 }
 
 
@@ -190,10 +168,7 @@ void question09(void)
 
 void question10(void)
 {
-    int h,m;
-    printf("Enter Hour and min (HH:MM) : ");
-    scanf("%d:%d",&h,&m);
-    printf("%d hour and %d Minute",h,m);
+    // Your solution here
 }
 
 
