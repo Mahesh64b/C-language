@@ -34,7 +34,13 @@ void question01(void)
 
 void question02(void)
 {
-    // Your solution here
+    int n;
+    printf("Enter your desired number : ");
+    scanf("%d", &n);
+    for (int i = 1; i <= n; i++)
+    {
+        printf("%d\n",i);
+    }
 }
 
 
