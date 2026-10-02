@@ -183,7 +183,13 @@ void question08(void)
 
 void question09(void)
 {
-    // Your solution here
+    int n;
+    printf("Enter the number : ");
+    scanf("%d",&n);
+    for (int i = 1; i <= n; i++)
+    {
+        printf("Square : %d\n",i*i*i);
+    }
 }
 
 
