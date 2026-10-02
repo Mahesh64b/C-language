@@ -56,7 +56,14 @@ void question02(void)
 
 void question03(void)
 {
-    // Your solution here
+    int n;
+    printf("Enter your desired number : ");
+    scanf("%d", &n);
+    while (n != 0)
+    {
+        printf("%d\n",n);
+        n--;
+    }
 }
 
 
