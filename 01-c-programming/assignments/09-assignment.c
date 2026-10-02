@@ -62,7 +62,17 @@ void question02(void)
 
 void question03(void)
 {
-    // Your solution here
+    int x,sum = 0;
+    printf("Enter your number : ");
+    scanf("%d",&x);
+
+    for (int i = 1; i <= x; i++)
+    {
+        if (i % 2 != 0)
+            sum = sum + i;
+        
+    }
+    printf("%d",sum);
 }
 
 
