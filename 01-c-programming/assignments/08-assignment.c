@@ -78,9 +78,17 @@ void question03(void)
 
 void question04(void)
 {
-    // Your solution here
+    int n;
+    printf("Enter your desired number : ");
+    scanf("%d", &n);
+    
+    for (int i = 1; i <= n; i++)
+    {
+        if (i % 2 != 0){
+            printf("%d\n",i);
+        }
+    }
 }
-
 
 // ============================================================
 // QUESTION 05
