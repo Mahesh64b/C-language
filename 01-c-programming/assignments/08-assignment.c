@@ -138,7 +138,15 @@ void question06(void)
 
 void question07(void)
 {
-    // Your solution here
+    int n;
+    printf("Enter your desired number : ");
+    scanf("%d", &n);
+    while (n != 0)
+    {
+        if (n % 2 == 0)
+            printf("%d\n",n);
+        n--;
+    }
 }
 
 
