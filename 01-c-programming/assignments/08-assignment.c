@@ -204,7 +204,14 @@ void question09(void)
 
 void question10(void)
 {
-    // Your solution here
+    int x;
+    printf("Enter the number : ");
+    scanf("%d",&x);
+
+    for (int i = 1; i < 11; i++)
+    {
+        printf("%d x %d = %d\n",x,i,x*i);
+    }
 }
 
 
