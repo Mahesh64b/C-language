@@ -87,7 +87,15 @@ void question03(void)
 
 void question04(void)
 {
-    // Your solution here
+    int x,sum = 0;
+    printf("Enter your number : ");
+    scanf("%d",&x);
+
+    for (int i = 1; i <= x; i++)
+    {
+        sum = sum + i*i;
+    }
+    printf("%d",sum);
 }
 
 
