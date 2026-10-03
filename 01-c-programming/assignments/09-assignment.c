@@ -180,7 +180,21 @@ void question07(void)
 
 void question08(void)
 {
-    // Your solution here
+    int x,isPrime=1;
+    printf("Enter the number : ");
+    scanf("%d",&x);
+
+    for (int i = 2; i < x; i++)
+    {
+        if ( x % i == 0) 
+        {
+            printf("%d is not Prime number\n",x);
+            isPrime=0;
+            break;
+        }
+    }
+    if(isPrime==1)printf("%d is prime number",x);
+    
 }
 
 
@@ -210,7 +224,17 @@ void question09(void)
 
 void question10(void)
 {
-    // Your solution here
+    int x,result=0;
+    printf("Enter the number : ");
+    scanf("%d",&x);
+
+    while (x!=0)
+    {
+        int rem = x % 10;
+        result = (result * 10) + rem;
+        x = x / 10; 
+    }
+    printf("%d",result);
 }
 
 
