@@ -156,7 +156,16 @@ void question06(void)
 
 void question07(void)
 {
-    // Your solution here
+    int x,counter=1;
+    printf("Enter the number : ");
+    scanf("%d",&x);
+
+    while ( x % 10 != 0)
+    {
+        counter++;
+        x = x / 10;
+    }
+    printf("%d",--counter);
 }
 
 
