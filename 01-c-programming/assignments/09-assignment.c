@@ -133,7 +133,15 @@ void question05(void)
 
 void question06(void)
 {
-    // Your solution here
+    int x,fact=1;
+    printf("Enter the number : ");
+    scanf("%d",&x);
+
+    for (int i = 1; i <= x; i++)
+    {
+        fact = fact * i;
+    }
+    printf("%d is factorial of %d",fact,x);
 }
 
 
